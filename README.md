@@ -20,7 +20,9 @@ Once you have Flutter installed, clone this repository and run the app using the
 
 
 $ git clone https://github.com/keroamir/news-app.git
+
 $ cd flutter-news-app
+
 $ flutter run
 
 
